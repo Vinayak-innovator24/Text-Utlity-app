@@ -25,4 +25,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Deployment
 
-[https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Visit the deployed website : https://text-utlity-app-chi.vercel.app/
